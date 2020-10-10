@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
+redirect_uri = "https://forevertech3.herokuapp.com/auth/shopify/callback"
 
 ruby '2.7.1'
 
