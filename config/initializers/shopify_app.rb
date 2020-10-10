@@ -1,5 +1,5 @@
 ShopifyApp.configure do |config|
-  config.application_name = "Beaconapp3"
+  config.application_name = "Forevertech3"
   config.api_key = ENV['ca5be10e3666b82fbf0d50bcf8ce51c1']
   config.secret = ENV['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']
   config.old_secret = ""
