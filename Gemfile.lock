@@ -93,6 +93,9 @@ GEM
     ffi (1.13.1-x64-mingw32)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
+    graphiql-rails (1.7.0)
+      railties
+      sprockets-rails
     graphql (1.11.5)
     graphql-client (0.16.0)
       activesupport (>= 3.0)
@@ -247,6 +250,7 @@ DEPENDENCIES
   byebug
   capybara (>= 2.15)
   dotenv-rails
+  graphiql-rails
   jbuilder (~> 2.7)
   pg
   puma (~> 4.1)
